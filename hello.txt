@@ -4,4 +4,9 @@
 new
 new1
 hhh
+<<<<<<< HEAD
 no love
+=======
+love
+i love
+>>>>>>> dev
